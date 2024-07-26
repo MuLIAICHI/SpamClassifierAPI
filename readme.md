@@ -1,3 +1,4 @@
+![SpamClassifierAPI Logo](https://github.com/MuLIAICHI/SpamClassifierAPI/blob/main/spamclassifierAPI.png)
 # SpamClassifierAPI
 
 SpamClassifierAPI is a machine learning project that classifies emails as either spam or ham (not spam). This project follows an MLOps approach, covering everything from data preprocessing, model training, hyperparameter tuning, to deploying the model using FastAPI to create an API that predicts whether a given email is spam or not.
